@@ -1,4 +1,0 @@
-#Thu Jan 11 14:55:09 CET 2024
-base.0=/Users/victor/Programacion/flutter_application_1/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
